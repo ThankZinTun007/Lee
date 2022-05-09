@@ -20,7 +20,7 @@ except ImportError:
 
 	os.system("pip2 install requests lolcat")
 
-	os.system("python2 fcpro.py")
+	os.system("python2 Lee.py")
 
 from os import system
 
